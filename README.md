@@ -1,16 +1,30 @@
-### Hi there 👋
+I met a traveller from an antique land
 
-<!--
-**Bocampagni/Bocampagni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Who said:—Two vast and trunkless legs of stone
 
-Here are some ideas to get you started:
+Stand in the desert. Near them on the sand,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Half sunk, a shatter'd visage lies, whose frown
+
+And wrinkled lip and sneer of cold command
+
+Tell that its sculptor well those passions read
+
+Which yet survive, stamp'd on these lifeless things,
+
+The hand that mock'd them and the heart that fed.
+
+And on the pedestal these words appear:
+
+"My name is Ozymandias, king of kings:
+
+Look on my works, ye mighty, and despair!"
+
+
+
+
+Nothing beside remains: round the decay
+
+Of that colossal wreck, boundless and bare,
+
+The lone and level sands stretch far away
